@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#db
+cozy-corner-2903-firebase-adminsdk-jdzpj-3a58dee574.json
